@@ -66,7 +66,7 @@
           },
           "title": "+44 7715 879652",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">BOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Home#features1-6\" data-toolbar=\"-mbrBtnMove\">What do we offer?</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Home\" data-toolbar=\"-mbrBtnMove\">BOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Home#features1-6\" data-toolbar=\"-mbrBtnMove\">What do we offer?</a>"
         },
         {
           "_tags": [
@@ -417,7 +417,7 @@
             }
           },
           "title2": "Air Conditoning",
-          "subtitle2": "we got you",
+          "subtitle2": "No Sweat. No Smell",
           "caption2": "Summer is here and so is the heat, Keep cool and party on.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media3": {
@@ -433,7 +433,7 @@
             }
           },
           "title3": "High Level Security",
-          "subtitle3": "we got it all under control",
+          "subtitle3": "We got it all under control",
           "caption3": "We will sort out professionaly trained I.S.A Secuirty to guards to keep your event running smooth. Wether it may be door bouncers, item searching or looking after your pet cat we got it covered.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media4": {
