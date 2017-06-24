@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Gallery.html",
+    "currentPage": "Home",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -233,7 +233,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/smoke-600x317.png",
+              "src": "@PROJECT_PATH@/assets/images/cocktail-bar-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -243,9 +243,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Smoke Machine",
+          "title3": "Cocktail Bar",
           "subtitle3": "Fuel the night&nbsp;",
-          "caption3": "Non Toxic smoke is a great way to heighten all 5 senses, Everything comes alive at this point.",
+          "caption3": "Get yourself plugged in with the taste of paradise.<br><br><i>These cocktails are prepared by mixing experts!</i>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media4": {
             "image": {
